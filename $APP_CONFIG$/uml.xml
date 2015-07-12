@@ -1,0 +1,11 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="Flash" categories="Fields;Constructors;Methods;Properties" />
+        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties" />
+        <entry id="MODULES" categories="Libraries;Test dependencies" />
+      </map>
+    </option>
+  </component>
+</application>

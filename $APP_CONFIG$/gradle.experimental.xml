@@ -1,0 +1,6 @@
+<application>
+  <component name="GradleExperimentalSettings">
+    <option name="SELECT_MODULES_ON_PROJECT_IMPORT" value="true" />
+    <option name="ENABLE_UNIT_TESTING_SUPPORT" value="true" />
+  </component>
+</application>
