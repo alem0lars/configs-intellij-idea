@@ -2,16 +2,45 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/vegapp.iml" timestamp="1436937103090">
+        <mark key="[" line="25" column="14" />
+      </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/androidTest/java/rocks/molarialessandro/vegapp/app/ApplicationTest.java" timestamp="1436937189462">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="66" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text>http://d.android.com/tools/testing/testing_android.html</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>http://d.android.com/tools/testing/testing_android.html</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>bd</entry>
+        <entry>qa</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
