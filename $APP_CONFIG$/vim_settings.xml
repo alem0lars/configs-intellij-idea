@@ -6,27 +6,77 @@
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/vegapp.iml" timestamp="1436937103090">
         <mark key="[" line="25" column="14" />
       </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/gradle.properties" timestamp="1436939315936">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="1" />
+        <mark key="^" line="34" column="1" />
+        <mark key="." line="34" column="1" />
+      </file>
+      <file name="/a.dummy" timestamp="1436939288100">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/AndroidManifest.xml" timestamp="1436938409395">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+      </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/gradlew" timestamp="1436938977847">
+        <mark key="[" line="160" column="2" />
+        <mark key="]" line="160" column="2" />
+        <mark key="^" line="130" column="70" />
+        <mark key="." line="160" column="2" />
+      </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/androidTest/java/rocks/molarialessandro/vegapp/app/ApplicationTest.java" timestamp="1436937189462">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="66" />
       </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/MainActivity.java" timestamp="1436939158892">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="4">
+        <text>#</text>
+      </register>
+      <register name="-" type="4">
+        <text>#</text>
+      </register>
       <register name="0" type="4">
         <text>http://d.android.com/tools/testing/testing_android.html</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>http://d.android.com/tools/testing/testing_android.html</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICA=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICA=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIA==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -37,13 +87,20 @@
       <history-search />
       <history-cmd>
         <entry>bd</entry>
-        <entry>qa</entry>
         <entry>q</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
