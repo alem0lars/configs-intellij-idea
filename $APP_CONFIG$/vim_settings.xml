@@ -6,7 +6,7 @@
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/vegapp.iml" timestamp="1436937103090">
         <mark key="[" line="25" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1436939328329">
+      <file name="/Dummy.txt" timestamp="1436941890160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/gradle.properties" timestamp="1436939315936">
@@ -79,7 +79,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -90,9 +90,9 @@
       <history-search />
       <history-cmd>
         <entry>bd</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,6 +103,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
