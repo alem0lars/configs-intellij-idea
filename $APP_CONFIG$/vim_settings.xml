@@ -6,7 +6,7 @@
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/vegapp.iml" timestamp="1436937103090">
         <mark key="[" line="25" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1436941890160">
+      <file name="/Dummy.txt" timestamp="1438004290807">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/gradle.properties" timestamp="1436939315936">
@@ -18,11 +18,11 @@
       <file name="/a.dummy" timestamp="1436939328335">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/AndroidManifest.xml" timestamp="1436938409395">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="29" column="25" />
-        <mark key="^" line="29" column="25" />
-        <mark key="." line="29" column="25" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/AndroidManifest.xml" timestamp="1438003858383">
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="38" />
+        <mark key="^" line="31" column="63" />
+        <mark key="." line="31" column="38" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/gradlew" timestamp="1436938977847">
         <mark key="[" line="160" column="2" />
@@ -43,34 +43,34 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>android.intent.action.MAIN</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>android.intent.action.MAIN</text>
       </register>
       <register name="0" type="4">
         <text>http://d.android.com/tools/testing/testing_android.html</text>
       </register>
       <register name="1" type="4">
-        <text>#</text>
+        <text>android.intent.action.MAIN</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgo=</text>
+      <register name="2" type="4">
+        <text>#</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -106,6 +106,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
