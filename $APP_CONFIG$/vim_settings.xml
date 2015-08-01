@@ -9,18 +9,26 @@
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/build.gradle" timestamp="1438413877748">
         <mark key="[" line="37" column="24" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/activity_splashscreen.xml" timestamp="1438413632548">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/activity_splashscreen.xml" timestamp="1438417665771">
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="/a.dummy" timestamp="1436939328335">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/AndroidManifest.xml" timestamp="1438413751296">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/AndroidManifest.xml" timestamp="1438416716748">
+        <mark key="'" line="29" column="10" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+      </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/colors.xml" timestamp="1438416665989">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/gradlew" timestamp="1436938977847">
         <mark key="[" line="160" column="2" />
@@ -28,20 +36,32 @@
         <mark key="^" line="130" column="70" />
         <mark key="." line="160" column="2" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/styles.xml" timestamp="1438413821869">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="56" />
-        <mark key="." line="20" column="56" />
-        <mark key="^" line="20" column="56" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/styles.xml" timestamp="1438416657525">
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="42" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/androidTest/java/rocks/molarialessandro/vegapp/app/ApplicationTest.java" timestamp="1436937189462">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="66" />
       </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/fragment_splashscreenpage.xml" timestamp="1438417817816">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="14" />
+        <mark key="^" line="27" column="47" />
+        <mark key="." line="27" column="14" />
+      </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/MainActivity.java" timestamp="1436939158892">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreenPageFragment.java" timestamp="1438420634517">
+        <mark key="[" line="104" column="55" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="49" column="33" />
+        <mark key="." line="104" column="56" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/vegapp.iml" timestamp="1436937103090">
         <mark key="[" line="25" column="14" />
@@ -56,43 +76,46 @@
         <mark key="[" line="29" column="33" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="2" column="0" filename="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/colors.xml" />
+      <jump line="29" column="10" filename="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/AndroidManifest.xml" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Theme.AppCompat.Light.DarkActionBar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Theme.AppCompat.Light.DarkActionBar</text>
+        <text>i</text>
       </register>
       <register name="0" type="4">
         <text>http://d.android.com/tools/testing/testing_android.html</text>
       </register>
-      <register name="1" type="4">
-        <text>Theme.AppCompat.Light.DarkActionBar</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHN0eWxlPgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBSZW5hbWUgbWV0aG9kLCB1cGRhdGUgYXJndW1lbnQgYW5kIGhvb2sgbWV0aG9kIGludG8gVUkgZXZlbnQKICBwdWJsaWMgdm9pZCBvbkJ1dHRvblByZXNzZWQoVXJpIHVyaSkKICB7CiAgICBpZiAobGlzdGVuZXIgIT0gbnVsbCkgewogICAgICBsaXN0ZW5lci5vbkZyYWdtZW50SW50ZXJhY3Rpb24odXJpKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICA8Vmlld1BhZ2VyCiAgICAgICAgICAgIGFuZAogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiI+PC9WaWV3UGFnZXI+Cg==</text>
+        <text>i</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6dGV4dD0iVE9ETyBSRU1PVkUgTUUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4K</text>
+        <text encoding="base64">ICAgIDwvU2Nyb2xsVmlldz4K</text>
       </register>
       <register name="5" type="4">
-        <text>android.intent.action.MAIN</text>
+        <text>style=&quot;?android:textAppearanceMedium&quot;</text>
       </register>
-      <register name="6" type="4">
-        <text>#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxTY3JvbGxWaWV3IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgPgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gZnJhZ21lbnRfc2NyZWVuX3NsaWRlX3BhZ2UueG1sIC0tPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgo=</text>
+      <register name="8" type="4">
+        <text>lorem_ipsum</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50Ii8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -105,9 +128,9 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>bd</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>bd</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -128,6 +151,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
