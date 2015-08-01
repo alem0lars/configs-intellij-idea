@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1438004290807">
@@ -65,11 +65,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreenPageFragment.java" timestamp="1438427372531">
-        <mark key="[" line="92" column="71" />
-        <mark key="]" line="92" column="70" />
-        <mark key="^" line="92" column="70" />
-        <mark key="." line="92" column="70" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreenPageFragment.java" timestamp="1438450634932">
+        <mark key="[" line="78" column="6" />
+        <mark key="]" line="78" column="28" />
+        <mark key="." line="78" column="28" />
+        <mark key="^" line="78" column="28" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/vegapp.iml" timestamp="1436937103090">
         <mark key="[" line="25" column="14" />
@@ -86,23 +86,23 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/models/GettingStartedItems.java" timestamp="1438428875740">
-        <mark key="[" line="35" column="59" />
-        <mark key="]" line="35" column="58" />
-        <mark key="." line="35" column="58" />
-        <mark key="^" line="35" column="58" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/models/GettingStartedItems.java" timestamp="1438450938726">
+        <mark key="[" line="88" column="59" />
+        <mark key="]" line="88" column="90" />
+        <mark key="^" line="88" column="90" />
+        <mark key="." line="88" column="90" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreen.java" timestamp="1438431533582">
-        <mark key="[" line="83" column="13" />
-        <mark key="]" line="83" column="13" />
-        <mark key="." line="83" column="13" />
-        <mark key="^" line="77" column="59" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreen.java" timestamp="1438432966732">
+        <mark key="[" line="79" column="68" />
+        <mark key="]" line="80" column="37" />
+        <mark key="." line="80" column="37" />
+        <mark key="^" line="80" column="37" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/models/GettingStartedItem.java" timestamp="1438428769014">
-        <mark key="[" line="40" column="9" />
-        <mark key="]" line="53" column="24" />
-        <mark key="^" line="53" column="24" />
-        <mark key="." line="53" column="24" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/models/GettingStartedItem.java" timestamp="1438450858875">
+        <mark key="[" line="83" column="56" />
+        <mark key="]" line="83" column="56" />
+        <mark key="." line="83" column="56" />
+        <mark key="^" line="83" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -111,41 +111,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NUM_PAGES</text>
+        <text>new Creator()</text>
       </register>
       <register name="-" type="4">
-        <text>NUM_PAGES</text>
+        <text>new Creator()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBHZXR0aW5nU3RhcnRlZEl0ZW0uY3JlYXRlKCJDaWFvIiwgIkNpYW8gY2lhbyIpLAo=</text>
+        <text encoding="base64">ICAgICAgZmluYWwgR2V0dGluZ1N0YXJ0ZWRJdGVtIGl0ZW0gPSBnZXRBcmd1bWVudHMoKS5nZXRQYXJjZWxhYmxlKEFSR19HRVRUSU5HU1RBUlRFRF9JVEVNKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>NUM_PAGES</text>
+        <text>new Creator()</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>Creator</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBhZ2VyQWRhcHRlciBwYWdlckFkYXB0ZXI7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIENyZWF0b3IgQ1JFQVRPUiA9IG5ldyBDcmVhdG9yKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFBhZ2VyQWRhcHRlciBwYWdlciA9IDsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>pagerAdapter</text>
+        <text>in</text>
       </register>
       <register name="6" type="4">
-        <text>new ScreenSlidePagerAdapter(getSupportFragmentManager(),
-                                               GettingStartedItems.createAll())</text>
+        <text>in</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>extends</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBpbnQgTlVNX1BBR0VTID0gMjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Q3JlYXRvcjxHZXR0aW5nU3RhcnRlZEl0ZW0+</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
