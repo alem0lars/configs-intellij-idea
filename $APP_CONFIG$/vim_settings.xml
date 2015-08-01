@@ -9,6 +9,12 @@
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/build.gradle" timestamp="1438413877748">
         <mark key="[" line="37" column="24" />
       </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/gettingstarteditems.xml" timestamp="1438428143851">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+      </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/activity_splashscreen.xml" timestamp="1438424851399">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="11" />
@@ -59,10 +65,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreenPageFragment.java" timestamp="1438425453149">
-        <mark key="]" line="103" column="30" />
-        <mark key="^" line="103" column="30" />
-        <mark key="." line="103" column="30" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreenPageFragment.java" timestamp="1438427372531">
+        <mark key="[" line="92" column="71" />
+        <mark key="]" line="92" column="70" />
+        <mark key="^" line="92" column="70" />
+        <mark key="." line="92" column="70" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/vegapp.iml" timestamp="1436937103090">
         <mark key="[" line="25" column="14" />
@@ -73,10 +80,29 @@
         <mark key="^" line="34" column="1" />
         <mark key="." line="34" column="1" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreen.java" timestamp="1438425785850">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/gettingstarted.xml" timestamp="1438428325989">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+      </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/models/GettingStartedItems.java" timestamp="1438428875740">
+        <mark key="[" line="35" column="59" />
+        <mark key="]" line="35" column="58" />
+        <mark key="." line="35" column="58" />
+        <mark key="^" line="35" column="58" />
+      </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreen.java" timestamp="1438427847596">
+        <mark key="[" line="43" column="67" />
+        <mark key="]" line="43" column="75" />
+        <mark key="." line="43" column="75" />
+        <mark key="^" line="43" column="75" />
+      </file>
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/models/GettingStartedItem.java" timestamp="1438428769014">
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="53" column="24" />
+        <mark key="^" line="53" column="24" />
+        <mark key="." line="53" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -84,41 +110,41 @@
       <jump line="29" column="10" filename="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCk7Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>mPager</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldyBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCk7Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>mPager</text>
-      </register>
-      <register name="3" type="4">
-        <text>mPager</text>
-      </register>
-      <register name="4" type="4">
-        <text>step</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChtUGFnZXIuZ2V0Q3VycmVudEl0ZW0oKSA9PSAwKSB7CiAgICAgIHN1cGVyLm9uQmFja1ByZXNzZWQoKTsK</text>
-      </register>
-      <register name="7" type="4">
+      <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBHZXR0aW5nU3RhcnRlZEl0ZW0uY3JlYXRlKCJDaWFvIiwgIkNpYW8gY2lhbyIpLAo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KGl0ZW1zKTs=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>Collection</text>
+      </register>
+      <register name="5" type="4">
+        <text>Collection</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>Collection</text>
+      </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>new GettingStartedItem[] {</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
