@@ -92,11 +92,11 @@
         <mark key="." line="35" column="58" />
         <mark key="^" line="35" column="58" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreen.java" timestamp="1438427847596">
-        <mark key="[" line="43" column="67" />
-        <mark key="]" line="43" column="75" />
-        <mark key="." line="43" column="75" />
-        <mark key="^" line="43" column="75" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreen.java" timestamp="1438431533582">
+        <mark key="[" line="83" column="13" />
+        <mark key="]" line="83" column="13" />
+        <mark key="." line="83" column="13" />
+        <mark key="^" line="77" column="59" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/models/GettingStartedItem.java" timestamp="1438428769014">
         <mark key="[" line="40" column="9" />
@@ -111,40 +111,41 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NUM_PAGES</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NUM_PAGES</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBHZXR0aW5nU3RhcnRlZEl0ZW0uY3JlYXRlKCJDaWFvIiwgIkNpYW8gY2lhbyIpLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NUM_PAGES</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KGl0ZW1zKTs=</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFBhZ2VyQWRhcHRlciBwYWdlckFkYXB0ZXI7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Collection</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFBhZ2VyQWRhcHRlciBwYWdlciA9IDsK</text>
       </register>
       <register name="5" type="4">
-        <text>Collection</text>
+        <text>pagerAdapter</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
+      <register name="6" type="4">
+        <text>new ScreenSlidePagerAdapter(getSupportFragmentManager(),
+                                               GettingStartedItems.createAll())</text>
       </register>
       <register name="7" type="4">
-        <text>Collection</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBpbnQgTlVNX1BBR0VTID0gMjsK</text>
       </register>
       <register name="9" type="4">
-        <text>new GettingStartedItem[] {</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
