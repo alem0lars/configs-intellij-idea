@@ -46,22 +46,22 @@
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="66" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/fragment_splashscreenpage.xml" timestamp="1438417817816">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="14" />
-        <mark key="^" line="27" column="47" />
-        <mark key="." line="27" column="14" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/fragment_splashscreenpage.xml" timestamp="1438422534043">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="24" column="13" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/MainActivity.java" timestamp="1436939158892">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreenPageFragment.java" timestamp="1438420634517">
-        <mark key="[" line="104" column="55" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="49" column="33" />
-        <mark key="." line="104" column="56" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/SplashScreenPageFragment.java" timestamp="1438420733003">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="106" column="9" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/vegapp.iml" timestamp="1436937103090">
         <mark key="[" line="25" column="14" />
@@ -82,40 +82,42 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldyBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>android:text=&quot;@string/app_name&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>http://d.android.com/tools/testing/testing_android.html</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxUZXh0VmlldyBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldyAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBSZW5hbWUgbWV0aG9kLCB1cGRhdGUgYXJndW1lbnQgYW5kIGhvb2sgbWV0aG9kIGludG8gVUkgZXZlbnQKICBwdWJsaWMgdm9pZCBvbkJ1dHRvblByZXNzZWQoVXJpIHVyaSkKICB7CiAgICBpZiAobGlzdGVuZXIgIT0gbnVsbCkgewogICAgICBsaXN0ZW5lci5vbkZyYWdtZW50SW50ZXJhY3Rpb24odXJpKTsKICAgIH0KICB9Cg==</text>
+      <register name="2" type="4">
+        <text>android:padding=&quot;16dp&quot;
+              android:lineSpacingMultiplier=&quot;1.2&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>android:text=&quot;@string/app_name&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvU2Nyb2xsVmlldz4K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IFVwZGF0ZSBhcmd1bWVudCB0eXBlIGFuZCBuYW1lCg==</text>
       </register>
       <register name="5" type="4">
-        <text>style=&quot;?android:textAppearanceMedium&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxTY3JvbGxWaWV3IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgPgoK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gZnJhZ21lbnRfc2NyZWVuX3NsaWRlX3BhZ2UueG1sIC0tPgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>lorem_ipsum</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIG1zZyA9IDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50Ii8+Cg==</text>
+      <register name="9" type="4">
+        <text>activity.toString() +
+                   &quot; must implement OnFragmentInteractionListener&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
