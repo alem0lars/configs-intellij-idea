@@ -180,10 +180,13 @@
               <State>
                 <id />
               </State>
+              <State>
+                <id>Java</id>
+              </State>
             </expanded-state>
             <selected-state>
               <State>
-                <id>Android</id>
+                <id>Java</id>
               </State>
             </selected-state>
           </profile-state>
@@ -204,7 +207,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Bower" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="JavaScriptLanguageLevel" value="ES5" />
         <property name="JavaScriptPreferStrict" value="true" />
