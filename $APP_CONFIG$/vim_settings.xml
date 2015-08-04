@@ -6,8 +6,8 @@
       <file name="/Dummy.txt" timestamp="1438004290807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/build.gradle" timestamp="1438413877748">
-        <mark key="[" line="37" column="24" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/build.gradle" timestamp="1438680103338">
+        <mark key="[" line="55" column="60" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/gettingstarteditems.xml" timestamp="1438428143851">
         <mark key="[" line="18" column="11" />
@@ -20,8 +20,7 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/activity_splashscreen.xml" timestamp="1438677191025">
-        <mark key="[" line="27" column="48" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/activity_splashscreen.xml" timestamp="1438680257458">
         <mark key="]" line="27" column="48" />
         <mark key="." line="27" column="48" />
         <mark key="^" line="27" column="48" />
@@ -43,11 +42,10 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/ui/ScreenSlidePagerAdapter.java" timestamp="1438676197790">
-        <mark key="[" line="65" column="57" />
-        <mark key="]" line="65" column="56" />
-        <mark key="^" line="65" column="56" />
-        <mark key="." line="65" column="56" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/ui/ScreenSlidePagerAdapter.java" timestamp="1438679556947">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/gradlew" timestamp="1436938977847">
         <mark key="[" line="160" column="2" />
@@ -61,12 +59,12 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="32" column="42" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/fragment_splashscreenpage.xml" timestamp="1438677294061">
-        <mark key="'" line="35" column="42" />
-        <mark key="[" line="73" column="49" />
-        <mark key="]" line="73" column="49" />
-        <mark key="." line="73" column="49" />
-        <mark key="^" line="73" column="50" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/fragment_splashscreenpage.xml" timestamp="1438679531812">
+        <mark key="'" line="34" column="42" />
+        <mark key="[" line="36" column="49" />
+        <mark key="]" line="36" column="53" />
+        <mark key="." line="36" column="53" />
+        <mark key="^" line="36" column="53" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/java/rocks/molarialessandro/vegapp/app/MainActivity.java" timestamp="1436939158892">
         <mark key="[" line="9" column="0" />
@@ -88,11 +86,11 @@
         <mark key="^" line="34" column="1" />
         <mark key="." line="34" column="1" />
       </file>
-      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/dimens.xml" timestamp="1438676719945">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
+      <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/dimens.xml" timestamp="1438679542108">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="38" />
       </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/gettingstarted.xml" timestamp="1438428325989">
         <mark key="[" line="18" column="11" />
@@ -126,44 +124,44 @@
       <jump line="35" column="42" filename="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/layout/fragment_splashscreenpage.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ss_page_top_margin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ss_page_top_margin</text>
+        <text>desc</text>
       </register>
       <register name="/" type="4">
         <text>@dimen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iQGRpbWVuL3NzcF90b3BfbWFyZ2luIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IkBkaW1lbi9zc19wYWdlX2Rlc2NfZm9udF9zaXplIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>ss_page_top_margin</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PgogICAgPC9hbmRyb2lkLnN1cHBvcnQudjQudmlldy5WaWV3UGFnZXI=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgQ2hhclNlcXVlbmNlIGdldFBhZ2VUaXRsZShpbnQgcG9zaXRpb24pCiAgewogICAgcmV0dXJuIGl0ZW1zLml0ZW1BdChCaWdJbnRlZ2VyLnZhbHVlT2YocG9zaXRpb24pKS5nZXRUaXRsZSgpOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJmb250X3NpemVfbWVkaXVtIj4xNnNwPC9kaW1lbj4KICAgIDxkaW1lbiBuYW1lPSJmb250X3NpemVfc2VtaWxhcmdlIj4xOHNwPC9kaW1lbj4KICAgIDxkaW1lbiBuYW1lPSJmb250X3NpemVfbGFyZ2UiPjIyc3A8L2RpbWVuPgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>desc</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YW5kcm9pZC5zdXBwb3J0LnY0LnZpZXcuUGFnZXJUYWJTdHJpcAogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0idCIKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgYW5kcm9pZDptaW5IZWlnaHQ9IjYwc3AiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFN0eWxlPSJib2xkIgo=</text>
       </register>
       <register name="6" type="4">
-        <text>op</text>
+        <text>desc</text>
       </register>
-      <register name="7" type="4">
-        <text>3</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IkBkaW1lbi9mb250X3NpemVfc2VtaWxhcmdlIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJzc3BfdG9wX21hcmdpbiI+MjRzcDwvZGltZW4+Cg==</text>
+      <register name="8" type="4">
+        <text>font_size_medium</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJzc3BfYm90dG9tX21hcmdpbiI+MzJzcDwvZGltZW4+Cg==</text>
+      <register name="9" type="4">
+        <text>ss_page_top_margin</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -213,6 +211,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
