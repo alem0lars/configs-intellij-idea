@@ -43,6 +43,16 @@
         <option name="PUSH_AUTO_UPDATE" value="true" />
         <option name="ROOT_SYNC" value="DONT_SYNC" />
       </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/downloads/SmartTabLayout-master" value="8631027024000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="GroovyCompilerProjectConfiguration">
         <option name="invokeDynamic" value="true" />
       </component>

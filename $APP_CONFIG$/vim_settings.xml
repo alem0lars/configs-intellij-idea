@@ -25,9 +25,6 @@
         <mark key="." line="27" column="48" />
         <mark key="^" line="27" column="48" />
       </file>
-      <file name="/a.dummy" timestamp="1436939328335">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/AndroidManifest.xml" timestamp="1438424031808">
         <mark key="'" line="29" column="10" />
         <mark key="[" line="19" column="13" />
@@ -92,6 +89,7 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
+      <file name="$USER_HOME$/downloads/SmartTabLayout-master/demo/src/main/res/color/custom_tab.xml" timestamp="1438873008814" />
       <file name="/archive/development/projects/work/unibo/vegapp/android/vegapp/app/src/main/res/values/gettingstarted.xml" timestamp="1438428325989">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="19" column="20" />
