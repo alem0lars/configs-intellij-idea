@@ -1,12 +1,16 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="27" />
+    <option name="FONT_SCALE" value="2.25" />
+  </component>
   <component name="EditorSettings">
     <option name="CARET_BLINKING_PERIOD" value="512" />
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
   </component>
   <component name="LiveEditOptions" autoDelay="256" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
-  <component name="XmlEditorOptions">
-    <option name="breadcrumbsEnabledInXml" value="true" />
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
